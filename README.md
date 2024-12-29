@@ -38,7 +38,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="omarelshahawy00's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omarelshahawy00&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/omarelshahawy00/github-readme-stats"><img alt="omarelshahawy00's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omarelshahawy00a&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/omarelshahawy00/github-readme-stats"><img alt="omarelshahawy00's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omarelshahawy00&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/omarelshahawy00/github-readme-stats"><img alt="AmmarAgeeza's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelshahawy00&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
