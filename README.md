@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Moustafa+Soltan!+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Elshahawy!+😎;" />
 </div>
 
 <br>
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
 
-- 🌱 I’m currently learning **Advanced Flutter** | **Android Jetpack Component **.
+- 🌱 I’m currently learning **Advanced Flutter** .
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Moustafasoltan23?tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/omarelshahawy00?tab=repositories)**.
 
 <br>
 <div align="center">
